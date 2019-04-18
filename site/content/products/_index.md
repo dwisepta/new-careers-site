@@ -2,12 +2,10 @@
 title: Our Coffee
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Who we are
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Our Business
+We give access to affordable, high-quality clothes to everyone who needs it. Help the world feel more confident, happy and beautiful A beautiful fashion lifestyle was something previously only the wealthy enjoyed. No more. Our mission is to break down barriers and make fashion affordable to every person in Indonesia and eventually, the world. We do this by leveraging technology to solve inefficiencies in the old-fashioned fashion industry, eliminating low-value middle men in the supply chain and employing the most talented people from across creative, analytical and engineering backgrounds. 
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
