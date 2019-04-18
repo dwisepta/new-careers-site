@@ -1,6 +1,6 @@
 ---
 title: "Sorabel Indonesia"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: People Department
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
