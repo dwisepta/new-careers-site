@@ -1,6 +1,6 @@
 ---
-title: "Sorabel Indonesia"
-subtitle: People Department
+title: "Sale Stock Indonesia"
+subtitle: Sorabel
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
